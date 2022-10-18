@@ -4,3 +4,4 @@ Names of all students
 
 ## Names
 - Agam More - School Teacher - https://github.com/agamm
+- Niklas L. - Student
